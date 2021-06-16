@@ -1,4 +1,4 @@
-# Google_analysis_certificate
+# Google_analysis_certificate_lab
 ## Project objectives
 
 * Perform data wrangling (gathering, assessing and cleaning) on the provided sources of data.
