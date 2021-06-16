@@ -6,7 +6,7 @@
 
 This project was completed as part of Google's Data Analysis Professional certificate.
 
-In this project we analyze data from the headquarters for a national chain of grocery stores
+In this project we analyze data from the headquarters for a national chain of grocery stores.
 Management has expressed concern about the amount of inventory kept in storage at some of their regional sites. 
 My immediate supervisor has asked me to do some analysis on inventory and sales data to make recommendations for changes to inventory.
 
