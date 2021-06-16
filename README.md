@@ -39,5 +39,5 @@ Google sheets
 
 ### Reports
 
-[combined](https://docs.google.com/spreadsheets/d/1_DTRClQkM2Jt9OfKueSTZYtuTdG_Ok9oJ3Ny3sJYBRk/edit?usp=sharing)
+[combined](https://docs.google.com/spreadsheets/d/1_DTRClQkM2Jt9OfKueSTZYtuTdG_Ok9oJ3Ny3sJYBRk/edit?usp=sharing).
 
