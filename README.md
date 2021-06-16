@@ -13,7 +13,7 @@ Management has expressed concern about the amount of inventory kept in storage a
 My immediate supervisor has asked me to do some analysis on inventory and sales data to make recommendations for changes to inventory.
 
 ## Datasets
-[Inventory](https://drive.google.com/u/0/uc?id=1FCo85-_jwlOkqucuiizlP3WyCEu1uXBH&export=download), [Products](https://drive.google.com/u/0/uc?id=1Qm1FFskt30Cc1I8XbptukBnT3T1ZHeJ-&export=download), [Sales](https://drive.google.com/u/0/uc?id=1hQ3_EqXPANEPhyY-VDKa9LTuB73E_DVT&export=download)
+Management has been collecting data about its inventory, products and sales. These datasets can be found here: [Inventory](https://drive.google.com/u/0/uc?id=1FCo85-_jwlOkqucuiizlP3WyCEu1uXBH&export=download), [Products](https://drive.google.com/u/0/uc?id=1Qm1FFskt30Cc1I8XbptukBnT3T1ZHeJ-&export=download), [Sales](https://drive.google.com/u/0/uc?id=1hQ3_EqXPANEPhyY-VDKa9LTuB73E_DVT&export=download). 
 
 
 
