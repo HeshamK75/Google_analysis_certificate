@@ -1,6 +1,4 @@
 # Google_analysis_certificate
-https://docs.google.com/spreadsheets/d/1_DTRClQkM2Jt9OfKueSTZYtuTdG_Ok9oJ3Ny3sJYBRk/edit?usp=sharing
-
 ## Project objectives
 
 * Perform data wrangling (gathering, assessing and cleaning) on the provided sources of data.
@@ -21,5 +19,5 @@ Google sheets
 
 ### Reports
 
-
+[combined](https://docs.google.com/spreadsheets/d/1_DTRClQkM2Jt9OfKueSTZYtuTdG_Ok9oJ3Ny3sJYBRk/edit?usp=sharing)
 
